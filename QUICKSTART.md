@@ -62,7 +62,7 @@ npm run dev
 
 ### Step 4: Open Your Browser
 
-Visit: **http://localhost:5173**
+Visit the URL shown in your terminal (usually **http://localhost:5173**, but could be 5174, 5175, etc. if that port is in use)
 
 🎉 **You're done!** TripBud is now running!
 

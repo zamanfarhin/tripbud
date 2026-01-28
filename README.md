@@ -78,11 +78,11 @@ TripBud is an intelligent travel planning application that uses AI to curate per
    ```bash
    npm run dev
    ```
-   Frontend will run at: `http://localhost:5173`
+   Frontend will run at the port shown in your terminal (usually `http://localhost:5173`, but may auto-select 5174, 5175, etc. if that port is busy)
 
 ## 📖 Usage
 
-1. Open your browser to `http://localhost:5173`
+1. Open your browser to the URL shown in your terminal (e.g., `http://localhost:5173` or similar)
 2. Enter your destination city
 3. Select your interests (food, culture, nature, etc.)
 4. Choose trip duration and budget
