@@ -178,8 +178,8 @@ This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Built with [Claude AI](https://claude.ai) by Anthropic
-- Inspired by the need for authentic, curated travel experiences
+- Backend built with [Claude AI](https://claude.ai) by Anthropic
+- Curated UI design inspired by Barcelona aesthetics
 - Thanks to all travelers seeking meaningful adventures!
 
 ## 💬 Support
